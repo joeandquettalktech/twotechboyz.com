@@ -22,10 +22,8 @@ const IndexPage = () => {
             <h1>
               <FaRocket /> Gatsby Zurg Starter
             </h1>
-            <p>Welcome to your new Gatsby site.</p>
-            <p>Now go build something great.</p>
-            <h2>Still Getting Started?</h2>
-            <p>Run the following in your terminal!</p>
+            <p>Site coming soon...find the starter below!</p>
+
             <pre>
               <code>gatsby new [directory] https://github.com/colbyfayock/gatsby-starter-zurg</code>
             </pre>
